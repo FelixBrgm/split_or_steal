@@ -1,2 +1,2 @@
-# conways_game_of_life
+# sowas von
 This is a quick tryout of go + htmx with a dockercontainer
