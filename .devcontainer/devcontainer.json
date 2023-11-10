@@ -6,7 +6,8 @@
 		"terminal.integrated.shell.linux": "/bin/bash",
 	},
 	"extensions": [
-		"PKief.material-icon-theme"
+		"PKief.material-icon-theme",
+		"golang.go"
 	],
 	"workspaceFolder": "/workspaces/htmx_plus_go/source" // change 42-ft_transendence to name of repo when copied
 }
